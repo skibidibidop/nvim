@@ -1,1 +1,3 @@
-This is a test!
+print("Welcome back!")
+
+vim.opt.ignorecase = true
